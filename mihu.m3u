@@ -16,36 +16,33 @@ https://pull.jsjwhzx.xyz/live/stream-78951465_lhd.flv?auth_key=1714304519-0-0-e9
 #EXTINF:-1,莱万2
 https://pull.jsjwhzx.xyz/live/stream-78951465_lhd.m3u8?auth_key=1714304519-0-0-4e04865c07fcd30fb498154d358c8378
 
-#EXTINF:-1,五星体育@@1
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,五星体育@@2
-https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.m3u8
-#EXTINF:-1,五星体育@@3
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-#EXTINF:-1,五星体育@@4
-http://php.jdshipin.com:8880/bst.php?id=wxty
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@1
-https://epg.pw/stream/2e64dc3d92b775a4ab2e9f4c6a561264ed92012dc1bab9ab7d22d3d0f7f1ec9d.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@2
-https://epg.pw/stream/f6e72adae94d04b13488c829391932dc44c2c128b9fb383bb35b702605c9ea40.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@3
-https://epg.pw/stream/4e133151c35a9cb2f88d2d8298fe572786cc4cefaf14ca45a72f0ab1dada4b35.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@4
+#EXTINF:-1,五星體育@@29
+https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+#EXTINF:-1,五星體育@@30
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+#EXTINF:-1,五星體育[geo-blocked]@@31
+https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
+#EXTINF:-1,五星體育[geo-blocked]@@32
+https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+#EXTINF:-1,五星體育[ipv6]@@33
+https://epg.pw/stream/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8
+#EXTINF:-1,五星體育[ipv6]@@34
+#EXTINF:-1,CCTV5+@@1
+https://epg.pw/stream/42fec7509fc70842d130f32c3535037f901381f57549e4122369e3b2d02d1d1c.m3u8
+#EXTINF:-1,CCTV5+@@2
+https://epg.pw/stream/88e9b33036aac3ca28574e9ab711afd7a87663391812a08c9fbb2afd4e399217.m3u8
+#EXTINF:-1,CCTV5+@@3
+https://epg.pw/stream/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.ctv
+#EXTINF:-1,CCTV5+[geo-blocked]@@4
+https://epg.pw/stream/5897b78cc9b15b68c99409534738477891937d46478db986629549592507f404.m3u8
+#EXTINF:-1,CCTV5+[geo-blocked]@@5
+https://epg.pw/stream/fd949c154a0facf9abb01f395c5d7d09b44a35fd0089da56e0ae57bc6b8d9c97.m3u8
+#EXTINF:-1,CCTV5+[ipv6]@@6
 https://epg.pw/stream/3a46ab2e35791a2ab555f708c1f791b15eb6f249405d9ce255ef11e78eb16f5b.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@5
-https://epg.pw/stream/c70ed3cb1c97f244abbb741f4416b6233b9b0766d45328671fc8972ae0ac65f7.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@6
-https://epg.pw/stream/ef9111cbb989c2ed48759884800cdcda4dcdd561f776aff58b70a31d9d1c9bfa.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@7
-https://epg.pw/stream/7981c913470473b3a58f00fbe26773cb6e00101b6c19f0a428d781ea3232ebe1.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@8
+#EXTINF:-1,CCTV5+[ipv6]@@7
 https://epg.pw/stream/466dcbd604ce53def8ef3aabbec10da725cd055278ceff16bb21f4aaa6f7eecd.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@9
-https://epg.pw/stream/bf509f9d982f2a90f4bf58d5cd04d6399dd48b6b641f58bebd04e316de043382.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@10
-https://epg.pw/stream/7b42bdb942bc1a5844cb87dea3fe10c019198064bb2958f16959a01c1eeab2b8.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",cctv5+@@11
-https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8
+#EXTINF:-1,CCTV5+[ipv6]@@8
+https://epg.pw/stream/602038ea2476412b588d91c07f08f0d9ce0c843c0f6fdee9ae3bbc27167333b7.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.gcufbd.top/img/1.jpg" group-title="卫视直播", CCTV1-综合
 http://101.228.122.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
