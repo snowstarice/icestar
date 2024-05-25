@@ -172,7 +172,8 @@ http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://syozy.fnwjks.top/upload//thumb/20240514/07690427359319420.png" group-title="情趣", TEST
+https://s1.playhls.com/m3u8.php?t=1716631387&id=6651a86586c10&s=1&hash=323bf57e6699c98d1a8f6490a91a2d7f
 #EXTINF:-1 tvg-logo="http://syozy.fnwjks.top/upload//thumb/20240514/07690427359319420.png" group-title="情趣", 嫩妹影片放映厅@
 rtmp://pull0629.lxhyouth.xyz/live/2
 #EXTINF:-1 tvg-logo="https://xcmdqi07.dmtmax.cn/7707/live/images/50e152beb30f0b994d7134b347be5514" group-title="蚊香社", 嫩妹影片放映厅@
